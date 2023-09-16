@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNN on Alejo Pérez</title>
+    <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/cnn/</link>
+    <description>Recent content in CNN on Alejo Pérez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Adversarial Networks for Peripheral Cell Blood Images Standardization</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-3/</link>
+      <pubDate>Thu, 05 Mar 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-3/</guid>
+      <description>Abstract Our multidisciplinary research group has been developing models based on Convolutional Neural Networks for the automatic morphological recognition of normal, reactive and abnormal blood cells circulating in blood, lymphoma and acute leukaemia. The problem addressed in this study is related to the effect of different staining protocols used to prepare the blood smear from which microscope images are analyzed. Specifically, the automatic blood cell classification with models trained using an image database collected in a single hospital may be affected when images are coming from another hospital.</description>
+    </item>
+    
+  </channel>
+</rss>

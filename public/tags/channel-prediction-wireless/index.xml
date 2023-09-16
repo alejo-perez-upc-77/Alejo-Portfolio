@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Channel Prediction Wireless on Alejo Pérez</title>
+    <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/channel-prediction-wireless/</link>
+    <description>Recent content in Channel Prediction Wireless on Alejo Pérez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/channel-prediction-wireless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML-aided Cross-Band Channel prediction in MIMO systems | Alejo Pérez</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-1/</link>
+      <pubDate>Mon, 20 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-1/</guid>
+      <description>Abstract The wireless communications technologies have experienced an exponential development during the last decades. 5G is a prominent exponent whose one of its crucial components is the Massive MIMO technology. By supporting multiple streams of signals it allows a revamped signal reconstruction in terms of mobile traffic size, data rate, latency and reliability. In this thesis work, we isolated this technology into a SIMO approach (Single-Input Multiple-Output) to explore a Machine Learning modeling to address the so-called Channel Prediction problem.</description>
+    </item>
+    
+  </channel>
+</rss>

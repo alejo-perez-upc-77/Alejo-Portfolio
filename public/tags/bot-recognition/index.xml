@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bot Recognition on Alejo Pérez</title>
+    <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/bot-recognition/</link>
+    <description>Recent content in Bot Recognition on Alejo Pérez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://alejo-perez-upc-77.github.io/Alejo-Portfolio/tags/bot-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empirical Study for bot recognition Using Bert and BiLSTMs</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-2/</link>
+      <pubDate>Thu, 20 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-2/</guid>
+      <description>Abstract Pre-trained language models together with the finetuning practices have been experiencing a remarkable improvement at NLP tasks during the last years. These models are learnt from well-written text corpora that share characteristics of academical and literary grammar, syntax, and lexicon. Literary works, Wikipedia and News are a few examples of these. When it comes to Tweet Spambot Recognition, we must deal with a big drawback: the difficulty of leveraging the prior knowledge of language models when applied on data that belong to an especially different domain.</description>
+    </item>
+    
+  </channel>
+</rss>

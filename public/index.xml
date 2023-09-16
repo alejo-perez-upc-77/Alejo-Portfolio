@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Diaries on Alejo Pérez</title>
+    <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/</link>
+    <description>Recent content in Machine Learning Diaries on Alejo Pérez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://alejo-perez-upc-77.github.io/Alejo-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML-aided Cross-Band Channel prediction in MIMO systems | Alejo Pérez</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-1/</link>
+      <pubDate>Mon, 20 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-1/</guid>
+      <description>Abstract The wireless communications technologies have experienced an exponential development during the last decades. 5G is a prominent exponent whose one of its crucial components is the Massive MIMO technology. By supporting multiple streams of signals it allows a revamped signal reconstruction in terms of mobile traffic size, data rate, latency and reliability. In this thesis work, we isolated this technology into a SIMO approach (Single-Input Multiple-Output) to explore a Machine Learning modeling to address the so-called Channel Prediction problem.</description>
+    </item>
+    
+    <item>
+      <title>Empirical Study for bot recognition Using Bert and BiLSTMs</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-2/</link>
+      <pubDate>Thu, 20 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-2/</guid>
+      <description>Abstract Pre-trained language models together with the finetuning practices have been experiencing a remarkable improvement at NLP tasks during the last years. These models are learnt from well-written text corpora that share characteristics of academical and literary grammar, syntax, and lexicon. Literary works, Wikipedia and News are a few examples of these. When it comes to Tweet Spambot Recognition, we must deal with a big drawback: the difficulty of leveraging the prior knowledge of language models when applied on data that belong to an especially different domain.</description>
+    </item>
+    
+    <item>
+      <title>Generative Adversarial Networks for Peripheral Cell Blood Images Standardization</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-3/</link>
+      <pubDate>Thu, 05 Mar 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-3/</guid>
+      <description>Abstract Our multidisciplinary research group has been developing models based on Convolutional Neural Networks for the automatic morphological recognition of normal, reactive and abnormal blood cells circulating in blood, lymphoma and acute leukaemia. The problem addressed in this study is related to the effect of different staining protocols used to prepare the blood smear from which microscope images are analyzed. Specifically, the automatic blood cell classification with models trained using an image database collected in a single hospital may be affected when images are coming from another hospital.</description>
+    </item>
+    
+    <item>
+      <title>Brain-Computer Interface</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-4/</link>
+      <pubDate>Wed, 11 Sep 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/post/project-4/</guid>
+      <description>Summary I built a Brain-Computer-Interface that leveraged the EEG signal out of a wearable EEG Sensor through LSL (Lab Streaming Layer). This project involves data sensing, transformation, signal processing and Machine Learning modeling pipelines whose ultimate aim was to provide a customized output of the program. The mentiones output was a song sensitive to the sensed individual’s emotions and the extracted features from the EEG signal. It consists in an executable project built in Python Language and it needs a wearable EEG device to emit a signal that the further program collects, processes and finally decides which song to play.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alejo-perez-upc-77.github.io/Alejo-Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Twitter: Follow me on Twitter 🐣🔗 LinkedIn: Connect with me on LinkedIn 🖌️🔗 Medium: Coming Soon! 📝 GitHub: Check out my GitHub 🐙🙀🔗 Instagram: Follow me on Instagram 📸🔗 </description>
+    </item>
+    
+  </channel>
+</rss>
